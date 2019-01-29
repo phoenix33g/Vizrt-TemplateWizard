@@ -1,2 +1,5 @@
 # Vizrt-TemplateWizard
-A place to hold VTW code
+__A place to hold VTW code__ *by: Israel Sanchez*
+
+### List of Functions:
+* 
